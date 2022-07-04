@@ -23,4 +23,12 @@ my_dict={'foo':{
            'f':{'lol':['L','o','l']}
     },
 }
+print('brunch 1')
+print(my_dict['foo'])
+#print(my_dict['foo']['b])
+d1=my_dict['foo']['b']
+print(d1)
+my_list.append(44)
+print(my_list)
+print()
 
