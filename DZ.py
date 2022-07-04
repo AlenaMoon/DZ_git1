@@ -39,5 +39,15 @@ mn=set()
 print(mn)
 mn.add('9')
 print()
+print('brunch 3')
+print(mn)
+del my_dict['moo']['f']['lol'][1]
+print(my_dict)
+# my_dict['moo']['f']['lol']=['L','l']
+# print(my_dict)
+my_dict['moo']['f']['K']=['K','e','k']
+print(my_dict)
+my_dict.clear()
+print(my_dict)
 
 
