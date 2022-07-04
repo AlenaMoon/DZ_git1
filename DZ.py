@@ -31,4 +31,12 @@ print(d1)
 my_list.append(44)
 print(my_list)
 print()
+print('brunch 2')
+d1=my_dict['foo']['b']
+print(d1)
+mn=set()
+print(mn)
+mn.add('9')
+print()
+
 
